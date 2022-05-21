@@ -6,4 +6,5 @@ Imported libraries:
 2.  `string` -->  To easily get the list of alphabets without having to manually type them.
 
 Symbols currently added in this project:
+
   !  @  #  $   %  ^  &  *  )  (  -  _  =  +  ]  [
